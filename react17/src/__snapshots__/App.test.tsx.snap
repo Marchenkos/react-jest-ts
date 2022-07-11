@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AccountDetailsScreen should match the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should match the snapshot 2`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render a EditCo the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render a EditComponet the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render an EditComponet  1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render an EditComponet 1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render an EditComponet the snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`AccountDetailsScreen should render an e the snapshot 1`] = `ShallowWrapper {}`;

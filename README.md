@@ -1,2 +1,0 @@
-# react-jest-ts
- 
